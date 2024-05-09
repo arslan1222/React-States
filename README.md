@@ -1,8 +1,23 @@
-# React + Vite
+# React States, Object Array, and Mini Projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains three small projects built with React focusing on managing states, working with object arrays, and implementing common functionalities like a counter, a like button, and a todo list.
 
-Currently, two official plugins are available:
+# Projects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 1. Counter
+
+A simple counter application where you can increment, decrement, and reset the count value.
+
+# 2. Like Button
+
+A like button component that change the button's into like.
+
+# 3. Todo List
+
+A todo list application where you can add new tasks.
+
+# Technologies Used
+
+- React
+- JavaScript
+
