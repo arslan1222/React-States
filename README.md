@@ -20,4 +20,6 @@ A todo list application where you can add new tasks.
 
 - React
 - JavaScript
+- HTML
+- CSS
 
